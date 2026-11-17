@@ -26,7 +26,7 @@ const sidebars = {
       value: '<div class="sidebar-contents-label">Contents</div>',
       defaultStyle: true,
     },
-    {type: 'link', label: '1. Executive Summary', href: `${PAPER}#executive`},
+    {type: 'link', label: '1. Kilgore Trout', href: `${PAPER}#gravestone`},
     {
       type: 'link',
       label: '2. Two Quotes',
