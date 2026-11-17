@@ -14,7 +14,7 @@ description: "A white paper urging local government to prepare Isla Vista for a 
   <span>**Jim McHiggleteeth**<br/>Zombie Biology Institute</span>
 </div>
 
-## 1. Executive Summary {#executive}
+## 1. Kilgore Trout {#gravestone}
 
 Kilgore Trout became a pioneer in the field of mental health. He advanced his theories disguised
 as science-fiction. He died in 1981, almost twenty years after he made Dwayne Hoover so sick.
