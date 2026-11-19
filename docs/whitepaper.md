@@ -1,20 +1,21 @@
 ---
 id: zombie
-title: Zombie White Paper
+title: The Captive Coastal Market: Immediate Institutional Interventions for UCSB Off-Campus Housing
 hide_title: true
 hide_table_of_contents: true
-description: "A white paper urging local government to prepare Isla Vista for a zombie outbreak, with a four-step plan, a cost analysis, and student survey results."
+description: "Stabilizing Isla Vista through university-directed master-leasing and strategic property acquisition."
 ---
 
-# Defending our Home: Preparing Isla Vista for the Incoming Zombie Hordes
+# The Captive Coastal Market: Immediate Institutional Interventions for UCSB Off-Campus Housing
 
 <div className="byline">
-  <span>**Kenneth Smith**<br/>UC Santa Barbara</span>
-  <span>**J. M. Forester**<br/>Zombie Biology Institute</span>
-  <span>**Jim McHiggleteeth**<br/>Zombie Biology Institute</span>
+  <span>**Miles Reynolds**<br/>UC Santa Barbara</span>
+  <span>**Jade Bramlett**<br/>UC Santa Barbara</span>
+  <span>**Delaney Mangan**<br/>UC Santa Barbara</span>
+  <span>**Shiloh Shemesh**<br/>UC Santa Barbara</span>
 </div>
 
-## 1. Kilgore Trout {#gravestone}
+## 1. Executive Summary {#gravestone}
 
 Kilgore Trout became a pioneer in the field of mental health. He advanced his theories disguised
 as science-fiction. He died in 1981, almost twenty years after he made Dwayne Hoover so sick.
