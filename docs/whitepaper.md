@@ -15,7 +15,7 @@ description: "Stabilizing Isla Vista through university-directed master-leasing 
   <span>**Shiloh Shemesh**<br/>UC Santa Barbara</span>
 </div>
 
-## 1. Executive Summary {#gravestone}
+## 1. Executive Summary {#exec}
 
 Kilgore Trout became a pioneer in the field of mental health. He advanced his theories disguised
 as science-fiction. He died in 1981, almost twenty years after he made Dwayne Hoover so sick.
