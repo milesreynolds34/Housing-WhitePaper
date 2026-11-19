@@ -8,9 +8,9 @@ import Admonition from '@theme/Admonition';
 const PAPER_URL = '/paper/zombie';
  
 const takeaways = [
-  'Zombies are real. All the biological evidence points to their existence.',
-  'Our survey indicates that some Isla Vista residents are ill-prepared to face a zombie apocalypse.',
-  'Isla Vista needs to increase the purchase of small munitions and build a perimeter wall to protect our residents.',
+  'Bullet 1.',
+  'Bullet 2.',
+  'Bullet 3.',
 ];
  
 export default function Home() {
@@ -22,14 +22,15 @@ export default function Home() {
       <main className={styles.page}>
         <Link to={PAPER_URL} className={styles.titleLink}>
           <h1 className={styles.title}>
-            Defending our Home: Preparing Isla Vista for the Incoming Zombie Hordes
+            The Captive Coastal Market: Immediate Institutional Interventions for UCSB Off-Campus Housing
           </h1>
         </Link>
  
         <div className="byline">
-          <span><strong>Kenneth Smith</strong><br/>UC Santa Barbara</span>
-          <span><strong>J. M. Forester</strong><br/>Zombie Biology Institute</span>
-          <span><strong>Jim McHiggleteeth</strong><br/>Zombie Biology Institute</span>
+          <span><strong>Miles Reynolds</strong><br/>UC Santa Barbara</span>
+          <span><strong>Jade Bramlett</strong><br/>UC Santa Barbara</span>
+          <span><strong>Delaney Mangan</strong><br/>UC Santa Barbara</span>
+          <span><strong>Shiloh Shemesh</strong><br/>UC Santa Barbara</span>
         </div><br />
         <Admonition type="note" title="Key Takeaways">
           <ul>
