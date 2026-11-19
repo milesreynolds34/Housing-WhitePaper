@@ -1,6 +1,6 @@
 ---
 id: zombie
-title: The Captive Coastal Market: Immediate Institutional Interventions for UCSB Off-Campus Housing
+title: "The Captive Coastal Market: Immediate Institutional Interventions for UCSB Off-Campus Housing"
 hide_title: true
 hide_table_of_contents: true
 description: "Stabilizing Isla Vista through university-directed master-leasing and strategic property acquisition."
