@@ -47,7 +47,7 @@ const config = {
         respectPrefersColorScheme: true,
       },
       navbar: {
-        title: 'Vonnegut Research Series',
+        title: 'I dont know what I would title this',
         logo: {
           alt: 'Series mark',
           src: 'img/palm.svg',
