@@ -8,7 +8,7 @@ const config = {
   future: {},
 
   url: 'https://milesreynolds34.github.io',
-  baseUrl: '/Tuesday-in-Class/',
+  baseUrl: '/Housing-WhitePaper/',
   organizationName: 'milesreynolds34',
   projectName: 'Housing-WhitePaper',
   trailingSlash: false,
