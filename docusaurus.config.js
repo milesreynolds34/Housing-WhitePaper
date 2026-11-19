@@ -1,8 +1,8 @@
 // @ts-check
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Vonnegut Research Series',
-  tagline: 'Papers on issues of interest to Isla Vista residents',
+  title: 'The Captive Coastal Market: Immediate Institutional Interventions for UCSB Off-Campus Housing',
+  tagline: 'Stabilizing Isla Vista through university-directed master-leasing and strategic property acquisition',
   favicon: 'img/zombie.svg',
 
   future: {},
@@ -10,7 +10,7 @@ const config = {
   url: 'https://milesreynolds34.github.io',
   baseUrl: '/Tuesday-in-Class/',
   organizationName: 'milesreynolds34',
-  projectName: 'Tuesday-in-Class',
+  projectName: 'Housing-WhitePaper',
   trailingSlash: false,
   onBrokenLinks: 'throw',
 
