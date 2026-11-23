@@ -1,5 +1,5 @@
 ---
-id: zombie
+id: ccm
 title: "The Captive Coastal Market: Immediate Institutional Interventions for UCSB Off-Campus Housing"
 hide_title: true
 hide_table_of_contents: true
