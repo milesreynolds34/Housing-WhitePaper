@@ -5,7 +5,7 @@ import Layout from '@theme/Layout';
 import styles from './index.module.css';
 import Admonition from '@theme/Admonition';
  
-const PAPER_URL = '/paper/zombie';
+const PAPER_URL = '/paper/ccm';
  
 const takeaways = [
   'Bullet 1.',
