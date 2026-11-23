@@ -17,6 +17,12 @@ description: "Stabilizing Isla Vista through university-directed master-leasing 
 
 ## 1. Executive Summary {#exec}
 
+### 1.1 Overview and Academic Context {#overview}
+
+### 1.2 Purpose and Context {#purpose}
+
+### 1.3 Project Objectives {#objectives}
+
 Kilgore Trout became a pioneer in the field of mental health. He advanced his theories disguised
 as science-fiction. He died in 1981, almost twenty years after he made Dwayne Hoover so sick.
 He was by then recognized as a great artist and scientist. The American Academy of Arts and
@@ -26,30 +32,32 @@ monument looked like this:
 
 ![A picture of a zombie with its arms wrapped around a tree](/img/fig-1.1.png)
 
-## 2. Two Quotes about Zombie Physiology {#twoquotes}
+## 2. Problem Statement {#problem-statement}
 
-Two esteemed biologists have made the following observations about the existence of zombies:
+### 2.1 The IV Rental Economy and Hyper-Studentification {#rental-economy}
 
-> "We know that they are here and live among us. That has been conclusively proven. The only question is when they are coming for us." — E. O. Wilson
+### 2.2 Institutional Inaction & Construction Bottlenecks {#bottlenecks}
 
-and
+### 2.3 Systemwide Context: Lessons From Other UCs {#systemwide}
 
-> "The only people who don't believe in zombies are those ignorant of the science." — Richard Dawkins
+### 2.4 The Psychosocial and Academic Costs of Overcrowding {#psychosocial}
 
-While many theories exist about the exact mechanism behind zombie infections, the most prominent one was made famous in the video game and television series *The Last of Us*. Essentially, a mutated strain of Ophiocordyceps — a real-world "zombie ant" fungus [1] — evolved to survive human body temperature and infect the brain, turning its living host into a hyper-aggressive puppet whose sole drive is to spread the fungus to others through chewing into their flesh.[^fungus]
+### 2.5 Primary Undergraduate Survey Findings {#survey}
 
-## 3. A Four-Step Plan {#foursteps}
+## 3. Solution Discussion {#solution}
 
-We want to suggest a four-step plan for the Isla Vista Community Services District:
+### 3.1 An Institutional Alternative to Traditional Housing Construction {#alternative}
+### 3.2 Restructuring Rental Agreements {#agreements}
 
-1. **Build City Walls** - Construct a 12-foot-thick city wall around Isla Vista's perimeter, which will create a defensible space to hold back the zombies.
-2. **Buy Small Munitions** - Purchase small munitions to properly arm our residents.
-3. **Biological Research** - Increase funding for biological research at UCSB to cure zombie infections.
-4. **Store Food Supplies** - Buy non-perishable food supplies in case residents are stranded for several months.
+### 3.3 Addressing Overcrowding and Residential Conditions {#overcrowding}
 
-These measures should increase our ability to withstand the incoming hordes.
+### 3.4 Institutional Precedents: Tropicana and Other UC Campuses {#precedents}
 
-## 4. Cost Analysis {#costs}
+### 3.5 Implementation Framework {#framework}
+
+### 3.6 Long-Term Viability and Expected Impact {#viability}
+
+## 4. Call to Action {#call-to-action}
 
 Table 1 summarizes the cost of each measure, based on our own detailed economic analysis.
 
@@ -70,7 +78,7 @@ We recognize the cost of these measures is quite large. We therefore suggest a 2
 ## 5. Survey {#survey}
 
 We distributed a survey among 173 college students. What we found was quite disturbing:
-
+(Keeping in for now if Jade needs to see how to format)
 <iframe
   title="I would shoot my fellow students in the leg to buy myself time when being chased by zombies."
   aria-label="Grouped column chart"
@@ -83,17 +91,9 @@ Many respondents were unwilling to slow down a fellow student, even to save thei
 
 We need to grow much more comfortable sacrificing our fellow humans if we are to survive.
 
-## 6. Call to Action {#calltoaction}
-
-We hope that this information inspires immediate action among Isla Vista residents. We can't wait for the zombies to arrive before we act. Mathematical models of an outbreak suggest that only quick, aggressive action can prevent the collapse of society once zombies appear [2]. Every month of delay makes the walls more expensive and the hordes harder to stop. We urge the district's Board of Directors to adopt the four-step plan before the end of the year.
-
 ---
 
-### Appendix A. Survey Methodology {#appendix-a}
-
-The survey was conducted using the ZAS (Zombie Apocalypse Survey), a widely-used national scale devised by Kenneth Smith. The ZAS asks respondents to rate their agreement with a series of statements about zombie survival on a five-point scale, from "strongly disagree" to "strongly agree." We recruited 173 undergraduate students on and around the UCSB campus, and all responses were anonymous.
-
-### References {#references}
+## Works Cited {#works-cited}
 
 <div>
 
