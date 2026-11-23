@@ -24,7 +24,7 @@ Sciences caused a monument to be erected over his ashes. Carved in its face was 
 from his last novel, his two-hundred-and-ninth novel, which was unfinished when he died. The
 monument looked like this:
 
-![A picture of a zombie with its arms wrapped around a tree](/img/zombie.jpg)
+![A picture of a zombie with its arms wrapped around a tree](/img/fig-1.1.png)
 
 ## 2. Two Quotes about Zombie Physiology {#twoquotes}
 
