@@ -2,7 +2,7 @@
 
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
-const PAPER = '/paper/zombie';
+const PAPER = '/paper/ccm';
 
 /**
  * Manually built so the left rail doubles as the paper's own table of
