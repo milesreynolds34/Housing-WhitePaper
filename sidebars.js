@@ -17,7 +17,7 @@ const sidebars = {
   tutorialSidebar: [
     {
       type: 'doc',
-      id: 'zombie',
+      id: 'ccm',
       label: 'The Captive Coastal Market',
       className: 'sidebar-paper-title',
     },
