@@ -65,7 +65,7 @@ Cut off from viable regional alternatives, undergrad renters lack the basic cons
   </div>
   <div className="side-by-side-media">
 
-![Severe residential vehicle spillover and stacked driveway parking along Isla Vista's Del Playa Drive](/img/fig-2.1.jpg)
+![Severe residential vehicle spillover and stacked driveway parking along Isla Vista's Del Playa Drive](/img/fig-1.1.png)
 *Figure 2.1. Severe residential vehicle spillover and stacked driveway parking along Isla Vista's Del Playa Drive, illustrating the physical infrastructure strain produced by high-density per-bed leasing and subdivided multi-family units ([Daily Nexus](https://dailynexus.com/2026-04-24/ivcsd-ramps-up-parking-compliance-program/)).*
 
   </div>
