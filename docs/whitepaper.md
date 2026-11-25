@@ -18,6 +18,7 @@ description: "Stabilizing Isla Vista through university-directed master-leasing 
 ## 1. Executive Summary {#exec}
 
 ### 1.1 Overview and Academic Context {#overview}
+
 The undergraduate experience at University of California, Santa Barbara (UCSB) is fundamentally defined by its physical setting. Unlike many large public research institutions situated within sprawling metropolitan centers, UCSB functions in direct proximity to Isla Vista, an unincorporated coastal neighborhood where the vast majority of upper-division students live and study in their own community. However, over the past decade, the stability of the residential ecosystem has deteriorated under supply constraints, historically low vacancy rates, and escalating rent burdens.
 
 Regional attention frequently focuses on stalled campus construction timelines and multi-year master-planning initiatives, but these long-term projects do not provide immediate relief to currently enrolled students actively looking for housing. Capital projects in higher education require years of review, architectural design, municipal negotiations, and capital financing before delivering net-gains in total beds. Meanwhile, thousands of undergraduates enter an unyielding, privately dominated rental market every academic cycle. Addressing these immediate conditions requires examining practical policy interventions capable of stabilizing living costs and protecting student well-being within the existing built environment.
@@ -28,16 +29,23 @@ Regional attention frequently focuses on stalled campus construction timelines a
 
 ### 1.2 Purpose and Context {#purpose}
 
+The purpose of this white paper is to evaluate the viability of an institutional alternative to traditional housing construction: university-directed master-leasing and strategic acquisition of existing multi-family residential complexes already located within Isla Vista. By stepping directly into the off-campus rental ecosystem, the university can serve as a stabilizing oversight over private student housing, transition predatory lease terms into more student-friendly contracts, and safeguard baseline health and residential standards.
+
+**The Captive Market**
+Isla Vista occupies a constrained geographic footprint of 0.595 square miles. It is bounded by the Pacific Ocean to the south, the Santa Barbara Airport and environmentally protected wetlands to the west and north, and the main UCSB campus to the east. Being physically enclosed and directly adjacent to campus facilities, Isla Vista functions as a captive rental market. Undergrads who do not secure university-owned housing—which is a lottery for second-years and beyond—have limited practical alternatives within commuting distance. Outlying areas in Goleta, Santa Barbara proper, and Ventura County present severe logistical challenges, including constrained public transit and restricted campus commuter parking permits. 
+
+![Aerial overview of Isla Vista](/img/fig-1.2.png)
+*Figure 1.2 Aerial overview of Isla Vista (~0.595 sq. mi.) illustrating the natural and institutional boundaries that physically enclose the local student housing market.*
+
 ### 1.3 Project Objectives {#objectives}
 
-Kilgore Trout became a pioneer in the field of mental health. He advanced his theories disguised
-as science-fiction. He died in 1981, almost twenty years after he made Dwayne Hoover so sick.
-He was by then recognized as a great artist and scientist. The American Academy of Arts and
-Sciences caused a monument to be erected over his ashes. Carved in its face was a quotation
-from his last novel, his two-hundred-and-ninth novel, which was unfinished when he died. The
-monument looked like this:
+To evaluate the viability of university master-leasing and property acquisition as an immediate housing solution, this white paper outlines three core objectives:
 
-![A picture of a zombie with its arms wrapped around a tree](/img/fig-1.1.png)
+- **Examine the off-campus housing deficit:** Examine how low vacancy rates, rental practices, and high-density living create financial and academic strain for UCSB undergraduates
+
+- **Incorporate primary student research:** Analyze UCSB undergraduate survey responses about rent, living arrangements, housing difficulties, and preferred university actions
+
+- **Define an operational master leasing framework:** Explain how UCSB could use master-leasing and selective acquisition (informed by institutional approaches at UCSD and the UC Regents’ 2015 Tropicana acquisition) to immediately deliver more 
 
 ## 2. Problem Statement {#problem-statement}
 
