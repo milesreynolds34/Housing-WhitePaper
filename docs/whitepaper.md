@@ -18,6 +18,13 @@ description: "Stabilizing Isla Vista through university-directed master-leasing 
 ## 1. Executive Summary {#exec}
 
 ### 1.1 Overview and Academic Context {#overview}
+The undergraduate experience at University of California, Santa Barbara (UCSB) is fundamentally defined by its physical setting. Unlike many large public research institutions situated within sprawling metropolitan centers, UCSB functions in direct proximity to Isla Vista, an unincorporated coastal neighborhood where the vast majority of upper-division students live and study in their own community. However, over the past decade, the stability of the residential ecosystem has deteriorated under supply constraints, historically low vacancy rates, and escalating rent burdens.
+
+Regional attention frequently focuses on stalled campus construction timelines and multi-year master-planning initiatives, but these long-term projects do not provide immediate relief to currently enrolled students actively looking for housing. Capital projects in higher education require years of review, architectural design, municipal negotiations, and capital financing before delivering net-gains in total beds. Meanwhile, thousands of undergraduates enter an unyielding, privately dominated rental market every academic cycle. Addressing these immediate conditions requires examining practical policy interventions capable of stabilizing living costs and protecting student well-being within the existing built environment.
+
+![Active construction on the San Benito student housing project at UCSB](/img/fig-1.1.png)
+*Figure 1.1. Active construction on the San Benito student housing project at UCSB. While long-term on-campus capital projects represent vital future bed capacity, multi-year development pipelines leave current undergraduates dependent on Isla Vista’s private rental market. ([Noozhawk](https://www.noozhawk.com/construction-underway-on-big-ucsb-student-housing-project/)).*
+
 
 ### 1.2 Purpose and Context {#purpose}
 
