@@ -58,21 +58,27 @@ Cut off from viable regional alternatives, undergrad renters lack the basic cons
 <div className="side-by-side">
 <div className="side-by-side-text">
 
-- **Per-Bed and Subdivided Rental Structures:** Traditional multi-family floor plans are routinely converted to maximize per-person occupancy[cite: 3]. Landlords often lease properties on an individual or per-bed basis, incentivizing the subdivision of standard double bedrooms into forced triples and quad configurations[cite: 3]. This structural reconfiguration artificially inflates the revenue generated per square foot while placing greater demand on aging units[cite: 3].
-- **Mandatory 12-Month Contract Terms:** Despite university academic instruction running across a standard nine-month calendar from late September into mid-June, private leases in Isla Vista almost universally mandate full twelve-month terms running through the summer[cite: 4]. Students who leave for the summer are compelled to either absorb three months of rent or find a subtenant[cite: 4]. While a secondary informal subleasing market does exist, excessive local supply during summer months forces students to heavily discount their rates or take total financial losses[cite: 4]. Some rental companies even go as far as to not allow subleasing as part of their initial leases[cite: 4].
-- **Accelerated Off-Cycle Leasing Timelines:** Property management firms enforce an aggressive leasing calendar; Students are compelled to sign legally binding commitments up to ten months in advance of the occupancy year[cite: 4]. Undergraduates are routinely pressured into signing non-refundable lease agreements for the subsequent academic year as early as October or November of their current fall term[cite: 4]. This compressed cycle exploits student housing anxiety, suppresses price comparison, and locks sophomores, juniors, and seniors into rigid contracts often before their academic trajectories, financial circumstances, or even roommate configurations are stabilized[cite: 4, 5].
+- **Per-Bed and Subdivided Rental Structures:** Traditional multi-family floor plans are routinely converted to maximize per-person occupancy. Landlords often lease properties on an individual or per-bed basis, incentivizing the subdivision of standard double bedrooms into forced triples and quad configurations. This structural reconfiguration artificially inflates the revenue generated per square foot while placing greater demand on aging units.
+- **Mandatory 12-Month Contract Terms:** Despite university academic instruction running across a standard nine-month calendar from late September into mid-June, private leases in Isla Vista almost universally mandate full twelve-month terms running through the summer. Students who leave for the summer are compelled to either absorb three months of rent or find a subtenant. While a secondary informal subleasing market does exist, excessive local supply during summer months forces students to heavily discount their rates or take total financial losses. Some rental companies even go as far as to not allow subleasing as part of their initial leases.
+- **Accelerated Off-Cycle Leasing Timelines:** Property management firms enforce an aggressive leasing calendar; Students are compelled to sign legally binding commitments up to ten months in advance of the occupancy year. Undergraduates are routinely pressured into signing non-refundable lease agreements for the subsequent academic year as early as October or November of their current fall term. This compressed cycle exploits student housing anxiety, suppresses price comparison, and locks sophomores, juniors, and seniors into rigid contracts often before their academic trajectories, financial circumstances, or even roommate configurations are stabilized.
 
 </div>
 <div className="side-by-side-media">
 
 ![Severe residential vehicle spillover and stacked driveway parking along Isla Vista's Del Playa Drive](/img/fig-2.1.jpg)
-*Figure 2.1. Severe residential vehicle spillover and stacked driveway parking along Isla Vista's Del Playa Drive, illustrating the physical infrastructure strain produced by high-density per-bed leasing and subdivided multi-family units ([Daily Nexus](https://dailynexus.com/2026-04-24/ivcsd-ramps-up-parking-compliance-program/))[cite: 4].*
+*Figure 2.1. Severe residential vehicle spillover and stacked driveway parking along Isla Vista's Del Playa Drive, illustrating the physical infrastructure strain produced by high-density per-bed leasing and subdivided multi-family units ([Daily Nexus](https://dailynexus.com/2026-04-24/ivcsd-ramps-up-parking-compliance-program/)).*
 
 </div>
 </div>
 
+The convergence of captive geography, structural overcrowding, and coercive leasing practices has established a cyclical, self-reinforcing private monopoly. Thousands of undergraduate tenants will remain bound to an off-campus rental economy designed around maximum profit without any university interference to provide an affordable, contractually fair alternative.
 
 ### 2.2 Institutional Inaction & Construction Bottlenecks {#bottlenecks}
+
+The origin of this off-campus power imbalance lies in the sustained difference in pace between university enrollment expansion and on-campus housing development. Under the 2010 Long Range Development Plan (LRDP), UCSB formally committed to accompany its planned enrollment growth with the construction of 5,000 new student beds on university-owned land. However, across the next decade, UCSB enrollment grew as expected, but university bed delivery lagged significantly behind their set targets. This shortfall in housing placed immense pressure on surrounding infrastructure, generating severe public friction in the community and culminating in formal legal action against the university by both the County of Santa Barbara as well as the City of Goleta.
+
+![Historical fall enrollment growth at UC Santa Barbara (1953–present)](/img/fig-2.2.png)
+*Figure 2.2. Historical fall enrollment growth at UC Santa Barbara (1953–present), illustrating sustained student population expansion that has outpaced on-campus bed delivery and strained off-campus residential capacity [\[1\]](#ref-1)*
 
 ### 2.3 Systemwide Context: Lessons From Other UCs {#systemwide}
 
@@ -131,14 +137,8 @@ We need to grow much more comfortable sacrificing our fellow humans if we are to
 
 ## Works Cited {#works-cited}
 
-<div>
+<div id="ref-1">
 
-[1] D. P. Hughes, S. B. Andersen, N. L. Hywel-Jones, W. Himaman, J. Billen, and J. J. Boomsma, "Behavioral mechanisms and morphological symptoms of zombie ants dying from fungal infection," *BMC Ecol.*, vol. 11, Art. no. 13, May 2011, doi: 10.1186/1472-6785-11-13.
-
-[2] P. Munz, I. Hudea, J. Imad, and R. J. Smith?, "When zombies attack!: Mathematical modelling of an outbreak of zombie infection," in *Infectious Disease Modelling Research Progress*, J. M. Tchuenche and C. Chiyaka, Eds. Hauppauge, NY, USA: Nova Science, 2009, pp. 133–150.
+[1] University of California (2026, January 8). *UC historical fall enrollment, 1869 to present*. https://www.universityofcalifornia.edu/about-uc/information-center/uc-historical-fall-enrollment-1869-present
 
 </div>
-
-[^ivcsd]: Isla Vista is an unincorporated community, so it has no city council. The Community Services District's elected Board of Directors is the closest thing it has to one.
-
-[^fungus]: The real *Ophiocordyceps unilateralis* infects carpenter ants. An infected ant leaves its colony, clamps its jaws onto a leaf vein, and dies there, and the fungus then grows out of its head to release spores onto new ants. Fortunately, it is not known to infect humans.
