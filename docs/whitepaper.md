@@ -78,7 +78,14 @@ The convergence of captive geography, structural overcrowding, and coercive leas
 The origin of this off-campus power imbalance lies in the sustained difference in pace between university enrollment expansion and on-campus housing development. Under the 2010 Long Range Development Plan (LRDP), UCSB formally committed to accompany its planned enrollment growth with the construction of 5,000 new student beds on university-owned land. However, across the next decade, UCSB enrollment grew as expected, but university bed delivery lagged significantly behind their set targets. This shortfall in housing placed immense pressure on surrounding infrastructure, generating severe public friction in the community and culminating in formal legal action against the university by both the County of Santa Barbara as well as the City of Goleta.
 
 ![Historical fall enrollment growth at UC Santa Barbara (1953–present)](/img/fig-2.2.png)
-*Figure 2.2. Historical fall enrollment growth at UC Santa Barbara (1953–present), illustrating sustained student population expansion that has outpaced on-campus bed delivery and strained off-campus residential capacity [\[1\]](#ref-1)*
+*Figure 2.2. Historical fall enrollment growth at UC Santa Barbara (1953–present), illustrating sustained student population expansion that has outpaced on-campus bed delivery and strained off-campus residential capacity [\[1\]](#ref-1).*
+
+While recent legal settlements established binding construction milestones for the campus, relying solely on traditional, on-campus capital development presents a stubborn timeline issue. In California’s current regulatory and financial environment, physical infrastructure pipelines require years of planning, review, and capital acquisition before delivering “net-new” beds—bedspaces built that, with respect to their construction destroying previous bedspaces, have more total beds in the newer state. Research from the Berkeley Economy and Society Initiative (BESI) on California’s growth restrictions documents that multi-family and institutional developments are systematically constrained by procedural hurdles, lengthy entitlement periods, and the persistent threat of litigation under the California Environmental Quality Act (CEQA) [\[2\]](#ref-2). These regulation-related barriers not only extend project timelines by years, but also drive up production expenses. In fact, the cost to produce multi-family housing in California is roughly 2.5 times higher per square foot than in related markets, burdened by extensive environmental review, slow permitting processes, and inflated soft costs [\[2\]](#ref-2).
+
+Even when major capital projects are fully capitalized and approved, moving a new residential complex from initial architectural planning through certification and physical construction takes between four and seven years on average. Consequently, future dorms, even those actively planned under binding settlement terms, offer next to zero relief to current undergraduates navigating Isla Vista’s compressed leasing market. Long-term capital projects cannot address immediate student vulnerability, meaning institutional intervention within the already existing off-campus housing stock is necessary to bridge the multi-year gap between ongoing enrollment pressures and future bed deliveries.
+
+![Temporal mismatch between a standard four-year undergraduate degree cycle and California’s typical four-to-seven-year capital housing development pipeline.](/img/fig-2.2.1.png)
+*Figure 2.2.1. Temporal mismatch between a standard four-year undergraduate degree cycle and California’s typical four-to-seven-year capital housing development pipeline, illustrating why long-term on-campus construction cannot provide immediate relief to currently enrolled students.*
 
 ### 2.3 Systemwide Context: Lessons From Other UCs {#systemwide}
 
@@ -140,5 +147,77 @@ We need to grow much more comfortable sacrificing our fellow humans if we are to
 <div id="ref-1">
 
 [1] University of California (2026, January 8). *UC historical fall enrollment, 1869 to present*. https://www.universityofcalifornia.edu/about-uc/information-center/uc-historical-fall-enrollment-1869-present
+
+</div>
+
+<div id="ref-2">
+
+[2] Trachtman, S. (2026). *To make California more affordable, government must foster sustainable growth* (Political Economy of California White Paper Series). Berkeley Economy & Society Initiative (BESI), University of California, Berkeley. https://besi.berkeley.edu/wp-content/uploads/2026/05/Sustainable-Growth-White-Paper-v6.pdf
+
+</div>
+
+<div id="ref-3">
+
+[3] *Save Berkeley’s Neighborhoods v. The Regents of the University of California*, 51 Cal. App. 5th 226, 265 Cal. Rptr. 3d 1 (Ct. App. 2020), review denied and opinion ordered nonpublished, No. S263568 (Cal. 2022). https://law.justia.com/cases/california/court-of-appeal/2020/a157551.html
+
+</div>
+
+<div id="ref-4">
+
+[4] Greenberg, M., McKay, S., Sirigotis, J., & Le, T. (2021). *No place like home: Affordable housing in crisis, Santa Cruz County, CA*. Institute for Social Transformation, University of California, Santa Cruz. https://noplacelikehome.ucsc.edu/
+
+</div>
+
+<div id="ref-5">
+
+[5] Baron, R. M., Mandel, D. R., Adams, C. A., & Griffen, L. M. (1976). Effects of social density in university residential environments. *Journal of Personality and Social Psychology*, 34(3), 434–446. https://doi.org/10.1037/0022-3514.34.3.434
+
+</div>
+
+<div id="ref-6">
+
+[6] The RP Group, & CEO Affordability, Food & Housing Access Taskforce. (2025). *Real College California: Basic needs among California community college students in 2025*. Community College League of California. https://www.ccleague.org/wp-content/uploads/2025_BasicNeedsSurveyBook_FINAL.pdf?hsCtaAttrib=207397175824
+
+</div>
+
+<div id="ref-7">
+
+[7] University of California, Santa Barbara. (2026). *Continuing students: Undergraduate 3rd & 4th years*. Campus Housing. https://www.housing.ucsb.edu/apply/continuing-students
+
+</div>
+
+<div id="ref-8">
+
+[8] University of California, Santa Barbara. (2015, July 14). Tropicana to be integrated into university student housing. *The Current*. https://news.ucsb.edu/2015/015764/tropicana-be-integrated-university-student-housing
+
+</div>
+
+<div id="ref-9">
+
+[9] University of California, Santa Barbara. (2025, January 16). UC Santa Barbara heads to State Street. *The Current*. https://news.ucsb.edu/2025/021726/uc-santa-barbara-heads-state-street
+
+</div>
+
+<div id="ref-10">
+
+[10] Assanis, D. (2026, June 12). *Enhancing the staff experience*. Office of the Chancellor, University of California, Santa Barbara. https://chancellor.ucsb.edu/memos/2026-06-12-enhancing-staff-experience
+
+</div>
+
+<div id="ref-11">
+
+[11] University of California, San Diego (2026). *Plan outcomes*. UC San Diego’s Strategic Plan. https://plan.ucsd.edu/plan-outcomes/index.html
+
+</div>
+
+<div id="ref-12">
+
+[12] University of San Diego (2026). *Pacific Ridge (USD master lease)*. Residential Life. https://www.sandiego.edu/residential-life/student-housing/pacific-ridge.php
+
+</div>
+
+<div id="ref-13">
+
+[13] University of California, Santa Barbara. (2026). *Rates*. Campus Housing. https://www.housing.ucsb.edu/apply/rates
 
 </div>
