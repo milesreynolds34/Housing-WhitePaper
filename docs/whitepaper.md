@@ -51,6 +51,27 @@ To evaluate the viability of university master-leasing and property acquisition 
 
 ### 2.1 The IV Rental Economy and Hyper-Studentification {#rental-economy}
 
+Isla Vista’s housing market differs from that of a conventional city. Occupying an isolated footprint of less than 0.6 square miles and maintaining an off-campus student demographic exceeding 80 percent, the community functions under a distinct process of studentification: the spatial, social, and economic restructuring of an urban neighborhood around an annually rotating student population. As long-term families and non-student residents were historically displaced from the area, the local built environment became a speculative student enclave. Because geographic boundaries and congested transportation isolate Isla Vista from larger regional housing pools in Goleta and Santa Barbara proper, private property managers command what is essentially a captive tenant base. 
+
+Cut off from viable regional alternatives, undergrad renters lack the basic consumer leverage that is seen in healthy housing markets. Private management entities face virtually no competitive pressure to moderate rental rates or uphold property conditions, knowing the natural enrollment turnover all but guarantees full tenancy each fall. The housing market’s imbalance is visible in high-yield extraction practices rather than standard residential tenancy.
+
+<div className="side-by-side">
+  <div className="side-by-side-text">
+
+- **Per-Bed and Subdivided Rental Structures:** Traditional multi-family floor plans are routinely converted to maximize per-person occupancy. Landlords often lease properties on an individual or per-bed basis, incentivizing the subdivision of standard double bedrooms into forced triples and quad configurations. This structural reconfiguration artificially inflates the revenue generated per square foot while placing greater demand on aging units.
+- **Mandatory 12-Month Contract Terms:** Despite university academic instruction running across a standard nine-month calendar from late September into mid-June, private leases in Isla Vista almost universally mandate full twelve-month terms running through the summer. Students who leave for the summer are compelled to either absorb three months of rent or find a subtenant. While a secondary informal subleasing market does exist, excessive local supply during summer months forces students to heavily discount their rates or take total financial losses. Some rental companies even go as far as to not allow subleasing as part of their initial leases.
+- **Accelerated Off-Cycle Leasing Timelines:** Property management firms enforce an aggressive leasing calendar; Students are compelled to sign legally binding commitments up to ten months in advance of the occupancy year. Undergraduates are routinely pressured into signing non-refundable lease agreements for the subsequent academic year as early as October or November of their current fall term. This compressed cycle exploits student housing anxiety, suppresses price comparison, and locks sophomores, juniors, and seniors into rigid contracts often before their academic trajectories, financial circumstances, or even roommate configurations are stabilized. 
+
+  </div>
+  <div className="side-by-side-media">
+
+![Severe residential vehicle spillover and stacked driveway parking along Isla Vista's Del Playa Drive](/img/fig-2.1.jpg)
+*Figure 2.1. Severe residential vehicle spillover and stacked driveway parking along Isla Vista's Del Playa Drive, illustrating the physical infrastructure strain produced by high-density per-bed leasing and subdivided multi-family units ([Daily Nexus](https://dailynexus.com/2026-04-24/ivcsd-ramps-up-parking-compliance-program/)).*
+
+  </div>
+</div>
+
+
 ### 2.2 Institutional Inaction & Construction Bottlenecks {#bottlenecks}
 
 ### 2.3 Systemwide Context: Lessons From Other UCs {#systemwide}
