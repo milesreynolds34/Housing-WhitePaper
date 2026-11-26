@@ -148,7 +148,7 @@ Isla Vista’s high density directly disrupts a student’s daily life. The stud
 We conducted a survey to gather data from UCSB students and better understand their housing experience. The goal was to evaluate the financial burden of off-campus housing, overcrowding living arrangements, and the effects of housing conditions on students' academic and well being. It also served to see students' perspective on what UCSB can do for them as a solution.
 
 **Respondent Demographics and Housing Conditions**
-(/img/graph_WhereSurveyedStudentsLive.png)
+!(/img/graph_WhereSurveyedStudentsLive.png)
 
 
 ## 3. Solution Discussion {#solution}
