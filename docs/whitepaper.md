@@ -135,7 +135,21 @@ The structural housing deficit at UCSB is not an isolated issue, but reflects br
 
 ### 2.4 The Psychosocial and Academic Costs of Overcrowding {#psychosocial}
 
+The consequences of Isla Vista’s housing shortage affects more than students’ budgets. When affordable space is scarce, students may share bedrooms or crowd into units that leave little room to study, sleep, or spend time alone. Environmental stress directly undermines student well-being and academic achievement. 
+
+In their study on collegiate living conditions, Baron et al. [\[5\]](#ref-5) demonstrated that high social density increases chronic psychological distress and reduces residents’ sense of control. In crowded dormitory and apartment settings, the inability of residents to regulate unwanted social interactions or secure privacy produces cognitive exhaustion, behavioral withdrawal, and heightened interpersonal friction [\[5\]](#ref-5). While this study only evaluated students within institutional dorms supported by university personnel and infrastructure, undergrads in Isla Vista endure these crowding pressures in aging, privately managed complexes with no campus oversight.  
+
+These stressors directly correlate with measurable academic disruption. Statewide data from the Real College California: 2025 Basic Needs Survey Report [\[6\]](#ref-6) established a clear relationship between housing distress and student performance. Across nearly 77,000 surveyed California postsecondary students, insecurity over basic needs systematically degraded academic standing. Respondents earning non-passing grades (Ds or Fs) or receiving withdrawals (Ws) reported much higher rates of housing insecurity (around 73%) compared to their peers who maintained As (54%). The study also revealed that 19% of respondents were compelled to live with others beyond the expected capacity of their residence purely due to financial hardship. Within the South Central Coast region, 57% of students reportedly experienced housing insecurity. 
+
+Isla Vista’s high density directly disrupts a student’s daily life. The study spaces and sleep schedules of undergrads often suffer as consequences of cramming multiple desks into shared bedrooms or placing partitions in common areas. When living environments make resting and studying difficult, coursework inevitably receives the impact. Therefore, university involvement in the off-campus rental market is necessary protection for the student body’s mental health and academic success.
+
 ### 2.5 Primary Undergraduate Survey Findings {#survey}
+
+We conducted a survey to gather data from UCSB students and better understand their housing experience. The goal was to evaluate the financial burden of off-campus housing, overcrowding living arrangements, and the effects of housing conditions on students' academic and well being. It also served to see students' perspective on what UCSB can do for them as a solution.
+
+**Respondent Demographics and Housing Conditions**
+(/img/graph_WhereSurveyedStudentsLive.png)
+
 
 ## 3. Solution Discussion {#solution}
 
