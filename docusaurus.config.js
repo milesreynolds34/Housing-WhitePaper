@@ -41,16 +41,16 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      image: 'img/zombie.svg',
+      image: 'img/Locked.jpg',
       colorMode: {
         defaultMode: 'light',
         respectPrefersColorScheme: true,
       },
       navbar: {
-        title: 'I dont know what I would title this',
+        title: 'The Captive Coastal Market',
         logo: {
           alt: 'Series mark',
-          src: 'img/palm.svg',
+          src: 'img/Locked.jpg',
         },
         items: [
           {
