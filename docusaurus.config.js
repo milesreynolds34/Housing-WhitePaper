@@ -3,7 +3,7 @@
 const config = {
   title: 'The Captive Coastal Market: Immediate Institutional Interventions for UCSB Off-Campus Housing',
   tagline: 'Stabilizing Isla Vista through university-directed master-leasing and strategic property acquisition',
-  favicon: 'img/zombie.svg',
+  favicon: 'img/Locked.jpg',
 
   future: {},
 
