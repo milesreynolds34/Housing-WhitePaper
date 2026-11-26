@@ -89,6 +89,19 @@ Even when major capital projects are fully capitalized and approved, moving a ne
 
 ### 2.3 Systemwide Context: Lessons From Other UCs {#systemwide}
 
+The structural housing deficit at UCSB is not an isolated issue, but reflects broader development challenges across the entire University of California system. Examining how other institutions have managed campus expansion can both guide and warn us of the risks of offloading student housing demand, along with presenting the potential benefits of institutional market intervention.
+
+<div className="side-by-side">
+<div className="side-by-side-text">
+
+- **UC Berkeley:** UC Berkeley long relied on the private municipal housing market to absorb sustained enrollment growth without adding proportional on-campus residential utilities. This strategy was a complete failure, culminating in intense neighborhood opposition and protracted environmental litigation, most notable in Save Berkeley’s Neighborhoods v. Regents of the University of California [\[3\]](#ref-3). The resulting court orders froze campus enrollment and even forced the California Legislature to intervene, showing the institutional risk of leaving housing responsibilities onto a saturated municipal market: student displacement, community hostility, and severe disruption to the university’s academic mission.
+
+</div>
+<div className="side-by-side-media">
+
+![A crowd of people gathering outside a historic building at UC Berkeley with protest signs](/img/fig-2.3.1.jpg)
+*Local residents and tenants protesting UC Berkeley campus expansion and displacement pressures ([KPFA](https://kpfa.org/blog/berkeley-tenants-and-mayor-protest-uc-berkeleys-planned-eviction-demolition-of-affordable-housing/)).*
+
 ### 2.4 The Psychosocial and Academic Costs of Overcrowding {#psychosocial}
 
 ### 2.5 Primary Undergraduate Survey Findings {#survey}
