@@ -102,6 +102,37 @@ The structural housing deficit at UCSB is not an isolated issue, but reflects br
 ![A crowd of people gathering outside a historic building at UC Berkeley with protest signs](/img/fig-2.3.1.jpg)
 *Local residents and tenants protesting UC Berkeley campus expansion and displacement pressures ([KPFA](https://kpfa.org/blog/berkeley-tenants-and-mayor-protest-uc-berkeleys-planned-eviction-demolition-of-affordable-housing/)).*
 
+</div>
+</div>
+
+<div className="side-by-side">
+<div className="side-by-side-text">
+
+- **UC Santa Cruz:** Geographically, UC Santa Cruz provides the closest structural analogue to UCSB: an isolated campus bounded by the Pacific Ocean and protected coastal terrain, leaving UCSC also incapable of relying on regional sprawl to absorb growth in the student population. In the university’s landmark community study, No Place Like Home [\[4\]](#ref-4), more than 1,700 Santa Cruz County renters were surveyed. Authors found that 70% of tenants were rent-burdened; one in four spent over 70% of income on rent and utilities. Another 27% reported severe overcrowding, while 57% described problems such as poor conditions or unresponsive landlords. Percentages cannot be applied directly to UCSB students, but the findings nonetheless provide a useful comparison: with few affordable alternatives in the coastal university markets, people may accept conditions they would otherwise avoid.
+
+</div>
+<div className="side-by-side-media">
+
+![A dense residential neighborhood with cars parked on the street in Santa Cruz near UCSC](/img/fig-2.3.2.jpg)
+*A UC Santa Cruz student studying inside a cramped off-campus trailer due to extreme coastal rent burdens and housing scarcity ([Los Angeles Times](https://www.latimes.com/california/story/2022-09-26/college-housing-shortage-pushes-students-into-crisis-as-most-uc-classes-start-up)).*
+
+</div>
+</div>
+
+<div className="side-by-side">
+<div className="side-by-side-text">
+
+- **University of San Diego:** UC San Diego adopted an aggressive strategy of institutional housing expansion. Over the past decade, thousands of university-managed beds were added through large, high-density residential developments. This proved the value of centralized, institutional management for curbing private rental exploitation, but the model relied on multi-billion dollar capital outlays and multi-year construction timelines. UCSB needs a way to extend university oversight sooner. The challenge becomes achieving that same level of institutional control without waiting years for new construction to break ground.  
+
+</div>
+<div className="side-by-side-media">
+
+![A large modern apartment complex with multiple stories, balconies, and courtyards in San Diego](/img/fig-2.3.3.png)
+*High density, multi-story student housing construction at UC San Diego, displaying large-scale institutional bed delivery ([San Diego Union-Tribune](https://www.sandiegouniontribune.com/2024/07/18/uc-san-diego-gets-ok-to-build-historic-6000-bed-housing-village/))*
+
+</div>
+</div>
+
 ### 2.4 The Psychosocial and Academic Costs of Overcrowding {#psychosocial}
 
 ### 2.5 Primary Undergraduate Survey Findings {#survey}
