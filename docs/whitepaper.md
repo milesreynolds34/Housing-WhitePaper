@@ -148,7 +148,13 @@ Isla Vista’s high density directly disrupts a student’s daily life. The stud
 We conducted a survey to gather data from UCSB students and better understand their housing experience. The goal was to evaluate the financial burden of off-campus housing, overcrowding living arrangements, and the effects of housing conditions on students' academic and well being. It also served to see students' perspective on what UCSB can do for them as a solution.
 
 **Respondent Demographics and Housing Conditions**
-!(/img/graph_WhereSurveyedStudentsLive.png)
+![](/img/graph_WhereSurveyedStudentsLive.png)
+*Over 2/3 of respondents live in Isla Vista.*
+
+The survey primarily captured students familiar with UCSB’s housing process. Third-years and above make up 70.2% of the sample, while 27.7% are second-years. With 66% of respondents living in Isla Vista, their experience is particularly relevant and offers insight into the off-campus market. Groups like these, further into their education, may be familiar with the yearly search for housing (including landlord comparisons, lease negotiations, and communication with roommates).
+
+Shared bedrooms are common across the surveyed housing environments. 51.1% live in doubles, 27.7% in triples, and 21.2% in quads, quintuples, or other arrangements. However, only 23.1% of students reporting triples live in Isla Vista—the overall 27.7% figure does not establish widespread triple occupancy within Isla Vista *specifically*. Overcrowding in Isla Vista may be driven less by triple-occupancy bedrooms; other factors, such as total household size or double-occupancy arrangements, should also be considered when examining density. 
+
 
 
 ## 3. Solution Discussion {#solution}
