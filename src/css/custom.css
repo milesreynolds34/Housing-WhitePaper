@@ -212,3 +212,40 @@
   }
 }
 
+/* Full-width two-chart layout (e.g., end of Section 2.5) */
+
+.double-chart {
+  margin: 1.75rem 0;
+}
+
+.double-chart-row {
+  display: flex;
+  gap: 1.5rem;
+  align-items: center;
+}
+
+.double-chart-item {
+  flex: 1;
+  min-width: 0;
+}
+
+.double-chart-item img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.double-chart em {
+  display: block;
+  font-family: var(--paper-sans);
+  font-size: 0.88rem;
+  line-height: 1.45;
+  color: var(--paper-muted);
+  margin-top: 0.5rem;
+}
+
+@media (max-width: 768px) {
+  .double-chart-row {
+    flex-direction: column;
+  }
+}
