@@ -8,9 +8,9 @@ import Admonition from '@theme/Admonition';
 const PAPER_URL = '/paper/ccm';
  
 const takeaways = [
-  'Bullet 1.',
-  'Bullet 2.',
-  'Bullet 3.',
+  'Bullet 1. Isolated from regional housing pools, Isla Vista functions as a captive market where landlords exploit guaranteed enrollment turnover through subdivided units and early 12-month leases',
+  'Bullet 2. Coastal zoning and multi-year construction timelines prevent new on-campus projects from delivering beds fast enough to relieve immediate student overcrowding and rent burdens',
+  'Bullet 3. UCSB can rapidly expand affordable housing capacity by master-leasing existing Isla Vista apartments and converting underutilized local commercial or hotel properties',
 ];
  
 export default function Home() {
