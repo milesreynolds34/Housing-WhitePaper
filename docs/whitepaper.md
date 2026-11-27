@@ -203,6 +203,7 @@ Students were also asked to rate potential university housing initiatives. Expan
 ## 3. Solution Discussion {#solution}
 
 ### 3.1 An Institutional Alternative to Traditional Housing Construction {#alternative}
+
 ### 3.2 Restructuring Rental Agreements {#agreements}
 
 ### 3.3 Addressing Overcrowding and Residential Conditions {#overcrowding}
@@ -215,6 +216,20 @@ Students were also asked to rate potential university housing initiatives. Expan
 
 ## 4. Call to Action {#call-to-action}
 
+Isla Vista’s housing problems cannot be addressed through construction alone. Years of unmet housing demand have led undergraduate tenants to a structurally captive market defined by high rents, crowded rooms, and lease terms that do not match the academic year. New campus buildings will help future students, but the university can and should act within the existing rental market. Strategic master-leasing and property acquisitions provide the institutional leverage required to dismantle predatory private leasing norms and protect the academic and mental welfare of UCSB students. 
+
+:::warning[]
+- Launch a master-leasing program with existing Isla Vista apartment complexes to immediately expand university managed housing without waiting for new construction projects 
+
+- Negotiate and provide a 9 month academic year lease that matches UCSB’s instructional calendar, eliminating the need for students to pay rent during summer months when many are away 
+
+- Create a centralized university administered off campus housing system that standardizes application timelines, lease terms, pricing transparency, and student placement procedures
+
+- Establish occupancy and habitable standards for university managed properties to reduce overcrowding and improve living conditions. 
+
+- Pursue strategic acquisition of Isla Vista apartment complexes to permanently expand university managed off-campus bed capacity
+:::
+
 Table 1 summarizes the cost of each measure, based on our own detailed economic analysis.
 
 | Measure | Items | Cost |
@@ -226,26 +241,6 @@ Table 1 summarizes the cost of each measure, based on our own detailed economic 
 | **Total** | | **$1.859 billion** |
 
 <p><strong>Table 1.</strong> Economic analysis.</p>
-
-:::warning[How to pay for measures]
-We recognize the cost of these measures is quite large. We therefore suggest a 2.5% wealth tax on Oprah, who lives in nearby Montecito.
-:::
-
-## 5. Survey {#survey}
-
-We distributed a survey among 173 college students. What we found was quite disturbing:
-(Keeping in for now if Jade needs to see how to format)
-<iframe
-  title="I would shoot my fellow students in the leg to buy myself time when being chased by zombies."
-  aria-label="Grouped column chart"
-  src="https://datawrapper.dwcdn.net/1495F/"
-  height="476"
-  style={{ width: '100%', border: 'none' }}
-></iframe>
-
-Many respondents were unwilling to slow down a fellow student, even to save their own lives. This kind of loyalty is admirable in ordinary times, but in an outbreak it could doom everyone. A full description of the survey appears in Appendix A.
-
-We need to grow much more comfortable sacrificing our fellow humans if we are to survive.
 
 ---
 
