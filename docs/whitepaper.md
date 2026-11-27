@@ -218,7 +218,7 @@ Students were also asked to rate potential university housing initiatives. Expan
 
 Isla Vista’s housing problems cannot be addressed through construction alone. Years of unmet housing demand have led undergraduate tenants to a structurally captive market defined by high rents, crowded rooms, and lease terms that do not match the academic year. New campus buildings will help future students, but the university can and should act within the existing rental market. Strategic master-leasing and property acquisitions provide the institutional leverage required to dismantle predatory private leasing norms and protect the academic and mental welfare of UCSB students. 
 
-:::warning[]
+:::warning[The University of California, Santa Barbara should take five steps:]
 - Launch a master-leasing program with existing Isla Vista apartment complexes to immediately expand university managed housing without waiting for new construction projects 
 
 - Negotiate and provide a 9 month academic year lease that matches UCSB’s instructional calendar, eliminating the need for students to pay rent during summer months when many are away 
@@ -230,8 +230,11 @@ Isla Vista’s housing problems cannot be addressed through construction alone. 
 - Pursue strategic acquisition of Isla Vista apartment complexes to permanently expand university managed off-campus bed capacity
 :::
 
-Table 1 summarizes the cost of each measure, based on our own detailed economic analysis.
+Solving the off-campus crisis requires looking beyond long-term campus construction. Meaningful relief depends on UCSB’s ability to improve rental conditions for currently enrolled students, many of whom face high housing costs, restrictive leases, and overcrowded living arrangements. These conditions can place additional strain on students’ finances, well-being, and academic performance. Through master-leasing and targeted property acquisitions, UCSB could extend university oversight into the off-campus rental market and provide more stable housing options while new residences are developed. 
 
+As the institution responsible for enrolling and educating these students, UCSB has both an opportunity and a responsibility to address the housing conditions affecting their education. Isla Vista’s housing crisis reflects years of imbalance between enrollment growth and residential capacity, a problem that long-term construction alone cannot immediately resolve. The recommendations outlined in this white paper offer practical steps toward improving existing housing conditions without abandoning future development. By taking a more active role as an institution, UCSB can begin addressing the needs of current students rather than relying solely on housing promised to future ones.  
+
+#For Later, Not Part of Project
 | Measure | Items | Cost |
 | :---- | :---- | :---- |
 | Measure 1 | City Walls | $1.75 billion |
