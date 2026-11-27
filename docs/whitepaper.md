@@ -155,7 +155,50 @@ The survey primarily captured students familiar with UCSB’s housing process. T
 
 Shared bedrooms are common across the surveyed housing environments. 51.1% live in doubles, 27.7% in triples, and 21.2% in quads, quintuples, or other arrangements. However, only 23.1% of students reporting triples live in Isla Vista—the overall 27.7% figure does not establish widespread triple occupancy within Isla Vista *specifically*. Overcrowding in Isla Vista may be driven less by triple-occupancy bedrooms; other factors, such as total household size or double-occupancy arrangements, should also be considered when examining density. 
 
+![](/img/graph_ReportedBedroomArrangements.png)
+*The graph shows most of the respondents' living arrangement and what type of bedrooms many of them stay in.*
 
+Most respondents report paying at least $1,000 a month for housing, excluding utilities—among Isla Vista students, 87.1% pay at least $1,000 a month. Across all respondents, 66% disagreed overall with the statement that their housing was affordable given their financial situation. Only a third of respondents feel their rent is manageable; there is a clear gap between high rental costs and student financial capacity. 
+
+These findings suggest that sharing bedrooms does not necessarily make housing inexpensive. Despite most participants having experience with UCSB’s housing system and more than two-thirds sharing living expenses, only a third consider their housing situation affordable. Maximizing shared living space is now a baseline requirement for getting by in the local rental market. The reduced financial relief associated with what used to be an *optional* method of saving money points to high baseline rents, and not individual living choices, as a driver of the affordability crisis.
+
+![](/img/graph_MonthlyHousingPayments.png)
+*The amount students pay for housing ranges from $0 to $1,600+ a month, excluding utilities, with the average being between $1,000 and $1,299.*
+
+**Housing Challenges and Student Well-Being**
+
+Students have reported difficulty navigating the housing market. When rating the difficulty of finding housing for the academic year, 59.6% selected a rating of 3 or higher on a five-point scale. Similarly, 74.5% of respondents experienced difficulty finding available housing to at least a moderate extent. Securing housing remains a common challenge among surveyed students, even after gaining experience with the process. As discussed in 2.1, limited availability and early leasing deadlines may place additional pressure on students into making housing decisions well before the academic year.
+
+Difficulties reported by students extend beyond availability. Among participants, 57.4% reported living with more roommates than preferred; 51.1% experienced difficulty affording housing; 31.9% struggled affording food or other basic necessities to at least a moderate extent. Although these responses do not establish a direct relationship between housing costs and other financial difficulties, they are proof of the compromises students make in navigating the rental market. Sharing living space is rarely a matter of preference.
+
+![](/img/graph_HowDifficultWasFindingHousing.png)
+*Students ranked the difficulty of finding housing from 1 to 5, with the majority voting 3.*
+
+Housing also affects students beyond their finances. 53.2% of respondents selected a rating of 3 or higher—29.8% selecting a 4 or 5—when asked whether housing costs or availability had negatively affected their academic performance or overall well-being. Findings indicate that many respondents view housing as a source of difficulty in at least one of these areas. Written responses also raised concerns about maintenance, overcrowding, and property conditions. Individual experiences do not represent all UCSB students, but they do support concerns about residential conditions and student well-being (discussed in 2.4). 
+
+**Student Support for University Intervention**
+
+76.6% of respondents said UCSB does not provide enough affordable housing, 19.1% were unsure, and 4.3% said they think the university does. It is clear most respondents perceive the current university housing system as insufficient. Given the sample’s concentration of students past their first year, many may have already encountered its limits firsthand. Their responses suggest a need for greater university involvement in student housing.
+
+Students were also asked to rate potential university housing initiatives. Expanding affordable university housing received the strongest support, with 78.7% assigning it a priority rating of 4 or 5. Improving housing availability transparency followed at 74.5%, while off-campus housing assistance and rental grants each received 72.3%. By comparison, 63.8% prioritized new construction. Although construction remains widely supported, results imply that students are also interested in measures that improve access to existing housing and simplify the rental process.
+
+<div className="double-chart">
+<div className="double-chart-row">
+<div className="double-chart-item">
+
+![Does UCSB provide enough affordable housing?](/img/graph_DoesUCSBProvideEnoughAffordableHousing.png)
+
+</div>
+<div className="double-chart-item">
+
+![What students want UCSB to prioritize](/img/graph_WhatStudentsWantUCSBToPrioritize.png)
+
+</div>
+</div>
+
+*Three-fourths of the surveyed sample feel that UCSB does not provide sufficient affordable housing (76.6% "No"), and prioritized expanding affordable university housing (78.7%) when asked what solution would be best.*
+
+</div>
 
 ## 3. Solution Discussion {#solution}
 
